@@ -2,7 +2,6 @@ package com.czd;
 
 import com.czd.bean.User;
 import com.czd.mapper.UserMapper;
-import com.czd.sqlSession.MyMapperProxy;
 import com.czd.sqlSession.MySqlsession;
 
 /**

@@ -44,7 +44,7 @@ public class MyConfiguration {
     }
 
     /**
-     * 具体解析xml
+     * 具体解析xml并放回数据库Connection
      * @param node
      * @return
      * @throws ClassNotFoundException
